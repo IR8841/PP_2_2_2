@@ -1,7 +1,4 @@
-package model;
-
-
-
+package web.model;
 public class Car {
 
     private int id_car;

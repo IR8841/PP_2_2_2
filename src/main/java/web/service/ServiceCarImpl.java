@@ -1,6 +1,6 @@
-package service;
+package web.service;
 
-import model.Car;
+import web.model.Car;
 import org.springframework.stereotype.Component;
 import org.springframework.ui.ModelMap;
 
